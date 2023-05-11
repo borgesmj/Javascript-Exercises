@@ -29,3 +29,6 @@ console.log(palindrome("never odd or even")); // true
 
 > comparar el primer carácter con el primer carácter opuesto, el segundo con el segundo opuesto, y así sucesivamente. Para hacer esto, necesitas la comparación 
 
+> En el ejemplo "never odd or even" el splitNumber es la cantidad de letras donde se va a dividir
+ 
+
