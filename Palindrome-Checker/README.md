@@ -12,25 +12,21 @@ También pasaremos cadenas con símbolos especiales, como 2A3*3a2, 2A3 3a2, y 2_
 
 
 ```
-function palindrome(str) {
-  str = str.toLowerCase().replace(/\W|_/g,"");
-  let splitNumber = Math.floor(str.length/2);
-  for (let i = 0; i < splitNumber; i++) {
-    if (str[i] !== str[str.length - 1 - i]) {
-      return false;
+const palindrome = (str) => {
+str = str.toLowerCase().replace(/\W|_/g,"") // all the letters to lowercase and eliminates all the Non Word Character and "_"
+    let splitNumber = Math.floor(str.length) // divides the length in 2 parts, and if length is a even number, return the floor
+    for (let i = 0; i<splitNumber; i++){
+    if (str[i] !== str [str.length - 1 - i]) //evaluate the character with the inverse in the array
+        {return false}
     }
-  }
-  return true;
+    return true
 }
-
-console.log(palindrome("never odd or even")); // true
+console.log(palindrome("Never Odd or even"));
 
 ```
 
 > comparar el primer carácter con el primer carácter opuesto, el segundo con el segundo opuesto, y así sucesivamente. Para hacer esto, necesitas la comparación 
+>(str[i] !== str [str.length - 1 - i])
 
-> En el ejemplo "never odd or even" el splitNumber es la cantidad de letras donde se va a dividir
->str.length = 14
->splitNUmber = 7
- 
+
 
