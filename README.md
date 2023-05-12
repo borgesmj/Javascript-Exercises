@@ -8,10 +8,10 @@ _Multiple exercises to improve programming logic in JavaScript, these exercises 
 
 | Name      |       |   |
 | ------------- |:-------------:| -----:|
-| Counting Sheeps     | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Counting-sheeps) | Preview |
-| Adding Array      | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Adding-Array)      |   Preview |
-| Ceasar's Cipher     | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Ceasars-cipher)      |   [Preview](https://codepen.io/borgesmj19/full/GRXLwzd) |
-| Palindrome Checker     | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Palindrome-Checker)    |   [Preview](https://codepen.io/borgesmj19/full/oNPRZyd) |
-| Cash Register     | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Cash-Register)    |   Preview |
-| phone Checker     | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Phone-checker)    |   Preview |
-| Roman Numeral Converter   | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Roman-Numeral-Converter)    |   Preview |
+| Counting Sheeps     | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Counting-sheeps#counting-sheeps) | Preview |
+| Adding Array      | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Adding-Array#adding-arrays)     |   Preview |
+| Ceasar's Cipher     | [Code](https://github.com/borgesmj/Javascript-Exercises/blob/main/Ceasars-cipher/README.md#ceasars-cipher)      |   [Preview](https://codepen.io/borgesmj19/full/GRXLwzd) |
+| Palindrome Checker     | [Code](https://github.com/borgesmj/Javascript-Exercises/blob/main/Palindrome-Checker/README.md#palindrome-checker)    |   [Preview](https://codepen.io/borgesmj19/full/oNPRZyd) |
+| Cash Register     | [Code](https://github.com/borgesmj/Javascript-Exercises/blob/main/Cash-Register/README.md#cash-register)    |   Preview |
+| Phone Checker     | [Code](https://github.com/borgesmj/Javascript-Exercises/blob/main/Phone-checker/README.md#phone-checker)    |   Preview |
+| Roman Numeral Converter   | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Roman-Numeral-Converter#roman-numeral-converter)    |   Preview |
