@@ -13,7 +13,4 @@ _Multiple exercises to improve programming logic in JavaScript, these exercises 
 | Ceasar's Cipher     | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Ceasars-cipher)      |   [Preview](https://codepen.io/borgesmj19/full/GRXLwzd) |
 | Palindrome Checker     | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Palindrome-Checker)    |   [Preview](https://codepen.io/borgesmj19/full/oNPRZyd) |
 | Cash Register     | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Cash-Register)    |   Preview |
-
-
-
-
+| phone Checker     | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Phone-checker)    |   Preview |
