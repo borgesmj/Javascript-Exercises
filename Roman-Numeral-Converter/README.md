@@ -52,6 +52,6 @@ const romanNumerals = [
 }
 
 console.log(convertToRoman(649)) //debe devolver la cadena DCXLIX
-console.log(convertToRoman(5)) should return the string V.
-console.log(convertToRoman(2014)) should return the string MMXIV
+console.log(convertToRoman(5)) //should return the string V.
+console.log(convertToRoman(2014)) //should return the string MMXIV
 ```
