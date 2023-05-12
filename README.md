@@ -15,3 +15,4 @@ _Multiple exercises to improve programming logic in JavaScript, these exercises 
 | Cash Register     | [Code](https://github.com/borgesmj/Javascript-Exercises/blob/main/Cash-Register/README.md#cash-register)    |   Demo |
 | Phone Checker     | [Code](https://github.com/borgesmj/Javascript-Exercises/blob/main/Phone-checker/README.md#phone-checker)    |   Demo |
 | Roman Numeral Converter   | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Roman-Numeral-Converter#roman-numeral-converter)    |   Demo |
+| Suma se elementos   | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Suma-de-elementos#suma-de-elementos)    |   Demo |
