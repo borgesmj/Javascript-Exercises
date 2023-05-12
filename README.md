@@ -8,10 +8,10 @@ _Multiple exercises to improve programming logic in JavaScript, these exercises 
 
 | Name      |       |   |
 | ------------- |:-------------:| -----:|
-| Counting Sheeps     | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Counting-sheeps#counting-sheeps) | Preview |
-| Adding Array      | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Adding-Array#adding-arrays)     |   Preview |
-| Ceasar's Cipher     | [Code](https://github.com/borgesmj/Javascript-Exercises/blob/main/Ceasars-cipher/README.md#ceasars-cipher)      |   [Preview](https://codepen.io/borgesmj19/full/GRXLwzd) |
-| Palindrome Checker     | [Code](https://github.com/borgesmj/Javascript-Exercises/blob/main/Palindrome-Checker/README.md#palindrome-checker)    |   [Preview](https://codepen.io/borgesmj19/full/oNPRZyd)|
-| Cash Register     | [Code](https://github.com/borgesmj/Javascript-Exercises/blob/main/Cash-Register/README.md#cash-register)    |   Preview |
-| Phone Checker     | [Code](https://github.com/borgesmj/Javascript-Exercises/blob/main/Phone-checker/README.md#phone-checker)    |   Preview |
-| Roman Numeral Converter   | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Roman-Numeral-Converter#roman-numeral-converter)    |   Preview |
+| Counting Sheeps     | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Counting-sheeps#counting-sheeps) | Demo |
+| Adding Array      | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Adding-Array#adding-arrays)     |   Demo |
+| Ceasar's Cipher     | [Code](https://github.com/borgesmj/Javascript-Exercises/blob/main/Ceasars-cipher/README.md#ceasars-cipher)      |   [Demo](https://codepen.io/borgesmj19/full/GRXLwzd) |
+| Palindrome Checker     | [Code](https://github.com/borgesmj/Javascript-Exercises/blob/main/Palindrome-Checker/README.md#palindrome-checker)    |   [Demo](https://codepen.io/borgesmj19/full/oNPRZyd)|
+| Cash Register     | [Code](https://github.com/borgesmj/Javascript-Exercises/blob/main/Cash-Register/README.md#cash-register)    |   Demo |
+| Phone Checker     | [Code](https://github.com/borgesmj/Javascript-Exercises/blob/main/Phone-checker/README.md#phone-checker)    |   Demo |
+| Roman Numeral Converter   | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Roman-Numeral-Converter#roman-numeral-converter)    |   Demo |
