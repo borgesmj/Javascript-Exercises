@@ -1,7 +1,8 @@
 # Suma de elementos
 
 _Problema de suma de elementos: Escribe una función que reciba una cadena de numeros, separados por una coma y devuelva la suma de todos los elementos._
-```function numbersSum(str){
+```
+function numbersSum(str){
     let sum = 0
     array = str.split(',')
     for (let i=0; i<array.length; i++){
