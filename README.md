@@ -14,3 +14,4 @@ _Multiple exercises to improve programming logic in JavaScript, these exercises 
 | Palindrome Checker     | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Palindrome-Checker)    |   [Preview](https://codepen.io/borgesmj19/full/oNPRZyd) |
 | Cash Register     | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Cash-Register)    |   Preview |
 | phone Checker     | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Phone-checker)    |   Preview |
+| Roman Numeral Converter   | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Roman-Numeral-Converter)    |   Preview |
