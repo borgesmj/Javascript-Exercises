@@ -1,6 +1,6 @@
 # Numero par e impar
 
-__Escribe una función que reciba cadena de numeros separados por una coma y devuelva si es par, o si es impar._
+_Escribe una función que reciba cadena de numeros separados por una coma y devuelva si es par, o si es impar._
 
 
 ```
