@@ -18,3 +18,4 @@ _Multiple exercises to improve programming logic in JavaScript, these exercises 
 | Suma de elementos   | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Suma-de-elementos#suma-de-elementos)    |   Demo |
 | Numero par e impar   | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Numero-par-e-impar#Numero-par-e-impar)    |   Demo |
 | Generador de contraseñas   | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Generador-de-Contrase%C3%B1as)    |   Demo |
+| Conversión de Duración a Texto Legible   | [Code](https://github.com/borgesmj/Javascript-Exercises/blob/main/Seconds-to-letters/README.md#conversi%C3%B3n-de-duraci%C3%B3n-a-texto-legible)    |   Demo |
