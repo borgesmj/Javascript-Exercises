@@ -47,11 +47,12 @@ function secondsToLetters(seconds){
   }
 }
 
-console.log(secondsToLetters(3662)); //1 hour,1 minute and 2 seconds
+console.log(secondsToLetters(3662)); //1 hour, 1 minute and 2 seconds
 console.log(secondsToLetters(0)); //Now
 console.log(secondsToLetters(30)); // 30 seconds
 console.log(secondsToLetters(360));//6 minutes and 0 seconds
 console.log(secondsToLetters(3962)); //1 minute and 2 seconds
-console.log(secondsToLetters(31539662)); //1 year, 1 hour,1 minute and 2 seconds
+console.log(secondsToLetters(31539662)); //1 year, 1 hour, 1 minute and 2 seconds
+console.log(secondsToLetters(150)); //2 minutes and 30 seconds
 console.log(secondsToLetters(-9)); //must be a positive number
 ```
