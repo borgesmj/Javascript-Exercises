@@ -37,12 +37,12 @@ function secondsToLetters(seconds){
             result += `${timeCount / 365} year, `
             seconds -= timeCount * time.value
           } else {
-            result += `${timeCount} ${time.name}${timeCount === 1 ? '' : 's'}${time.name === 'minute' ? ' and ' : ','}`;
+            result += `${timeCount} ${time.name}${timeCount === 1 ? '' : 's'}${time.name === 'minute' ? ' and ' : ', '}`;
             seconds -= timeCount * time.value;
           }
         }
     });
-    result += ` ${seconds} seconds`;
+    result += `${seconds} seconds`;
     return result;
   }
 }
@@ -51,7 +51,7 @@ console.log(secondsToLetters(3662)); //1 hour,1 minute and 2 seconds
 console.log(secondsToLetters(0)); //Now
 console.log(secondsToLetters(30)); // 30 seconds
 console.log(secondsToLetters(360));//6 minutes and 0 seconds
-console.log(secondsToLetters(62)); //1 minute and 2 seconds
+console.log(secondsToLetters(3962)); //1 minute and 2 seconds
 console.log(secondsToLetters(31539662)); //1 year, 1 hour,1 minute and 2 seconds
 console.log(secondsToLetters(-9)); //must be a positive number
 ```
