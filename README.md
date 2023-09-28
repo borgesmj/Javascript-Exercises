@@ -19,3 +19,5 @@ _Multiple exercises to improve programming logic in JavaScript, these exercises 
 | Numero par e impar   | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Numero-par-e-impar#Numero-par-e-impar)    | 
 | Generador de contraseñas   | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Generador-de-Contrase%C3%B1as)    | 
 | Conversión de Duración a Texto Legible   | [Code](https://github.com/borgesmj/Javascript-Exercises/blob/main/Seconds-to-letters/README.md#conversi%C3%B3n-de-duraci%C3%B3n-a-texto-legible)    | 
+| Las-sumas   | [Code](https://github.com/borgesmj/Javascript-Exercises/blob/main/Las-sumas/README.md#las-sumas)    | 
+| Enigma del Teclado Espía   | [Code](https://github.com/borgesmj/Javascript-Exercises/blob/main/Las-sumas/README.md#las-sumas)    | 
