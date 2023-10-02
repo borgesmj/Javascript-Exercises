@@ -15,4 +15,4 @@ console.log(numerosPrimos); // Debería mostrar [11, 13, 17, 19, 23, 29, 31, 37,
 ```
 Este ejercicio te desafiará a implementar un algoritmo para determinar si un número es primo y luego encontrar todos los números primos en el rango especificado. Puedes utilizar un bucle for, una función de ayuda para verificar si un número es primo y un array para almacenar los resultados. ¡Buena suerte!
 
-[Solution 🚀](https://github.com/borgesmj/Javascript-Exercises/blob/main/Encontrar-Numeros-Primos/script.js)
+[Solution 🚀](https://github.com/borgesmj/Javascript-Exercises/blob/main/Encontrar%20Numeros%20Primos/script.js)
