@@ -8,7 +8,7 @@ _Multiple exercises to improve programming logic in JavaScript, these exercises 
 
 | Name      |       |  |
 | ------------- |:-------------:|:--------|
-|  Adding Array     | [Enunciado](https://github.com/borgesmj/Javascript-Exercises/tree/main/Adding-Array#readme) | [Solucion](https://github.com/borgesmj/Javascript-Exercises/blob/main/Adding-Array/script.js) |
+|  [Adding Array](https://github.com/borgesmj/Javascript-Exercises/tree/main/Adding-Array)     | [Enunciado](https://github.com/borgesmj/Javascript-Exercises/tree/main/Adding-Array#readme) | [Solucion](https://github.com/borgesmj/Javascript-Exercises/blob/main/Adding-Array/script.js) |
 |  Counting Sheeps     | [Code](https://github.com/borgesmj/Javascript-Exercises/tree/main/Adding-Array#adding-arrays)     | 
 | Ceasar's Cipher     | [Code](https://github.com/borgesmj/Javascript-Exercises/blob/main/Ceasars-cipher/README.md#ceasars-cipher)      |
 | Palindrome Checker     | [Code](https://github.com/borgesmj/Javascript-Exercises/blob/main/Palindrome-Checker/README.md#palindrome-checker)    |
