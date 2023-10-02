@@ -6,14 +6,14 @@ function encontrarNumerosPrimos(inicio, fin) {
 	}
 
 	// Creamos un array de números desde el 2 hasta el fin del rango
-  // ya que el 2 es el numeroprimo mas pequeño 
-  // y asi podremos usar el metodo  Criba
+  	// ya que el 2 es el numero primo mas pequeño 
+  	// y asi podremos usar el metodo  Criba
 	for (let x = 2; x <= fin; x++) {
 		numerosPrimos.push(x);
 	}
 
 	// Evaluamos todos los numeros primos,
-	//utilizando el metodo  Criba de Eratóstenes
+	//utilizando el metodo Criba de Eratóstenes
 	for (let index = 0; index < numerosPrimos.length; index++) {
 		for (let i = 0; i < numerosPrimos.length; i++) {
 			if (numerosPrimos[i] % numerosPrimos[index] === 0 && i !== index) {
