@@ -14,5 +14,5 @@ _Crea dos listas a partir del texto recibido e imprime una nueva lista sumando t
 // [1, 2, 3] + [3,2,1] => [4, 4, 4]
 Remember that to print you must use console.log()
 ```
-## Solution 🚀
+[Solution 🚀](https://github.com/borgesmj/Javascript-Exercises/blob/main/Adding-Array/script.js)
 
