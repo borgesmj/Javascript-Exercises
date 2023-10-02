@@ -1,18 +1,16 @@
-# Adding Arrays
+Crea un algoritmo que solicite al usuario dos listas de números a través de la consola. Cada lista debe estar separada por comas y las dos listas deben estar separadas por una barra diagonal (slash):
 
-_Create an algorithm that receives from the console two lists of numbers separated by commas, each list being separated by a slash:_
 
-_Crea un algoritmo que reciba de la consola dos listas de números separados por comas, cada lista separada por una barra:_.
 ```
-// numbers => "1,2,3/3,2,1"
+Por ejemplo: "1,2,3/3,2,1"
 ```
-_Creates two lists from the received text and prints a new list by adding all the values from the two previous lists._
+Luego, el algoritmo debe separar y crear dos listas a partir del texto ingresado y luego imprimir una nueva lista que contenga la suma de los valores de las dos listas anteriores:
 
-_Crea dos listas a partir del texto recibido e imprime una nueva lista sumando todos los valores de las dos listas anteriores._
+
 ```
-"// numbers = 1,2,3/3,2,1" => [1, 2, 3] [3,2,1]
-// [1, 2, 3] + [3,2,1] => [4, 4, 4]
-Remember that to print you must use console.log()
+Ejemplo de entrada: "1,2,3/3,2,1"
+Salida: [4, 4, 4]
 ```
+Recuerda que para imprimir los resultados, debes usar console.log(). **¡Buena suerte!**
 [Solution 🚀](https://github.com/borgesmj/Javascript-Exercises/blob/main/Adding-Array/script.js)
 
