@@ -25,7 +25,6 @@ function encontrarNumerosPrimos(inicio, fin) {
 	for (x = 0; x < numerosPrimos.length; x++) {
 		if (numerosPrimos[x] > inicio) {
 			result.push(numerosPrimos[x])
-			console.log(result)
 		}
 	}
 	return result
