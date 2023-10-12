@@ -22,3 +22,4 @@ _Multiple exercises to improve programming logic in JavaScript, these exercises 
 | Las-sumas   | [Code](https://github.com/borgesmj/Javascript-Exercises/blob/main/Las-sumas/README.md#las-sumas)    | 
 | Enigma del Teclado Espía   | [Code](https://github.com/borgesmj/Javascript-Exercises/blob/main/Las-sumas/README.md#las-sumas)    | 
 |  [Encontrar Numeros Primos](https://github.com/borgesmj/Javascript-Exercises/tree/main/Encontrar%20Numeros%20Primos)     | [Enunciado](https://github.com/borgesmj/Javascript-Exercises/tree/main/Encontrar-Numeros-Primos#readme) | [Solucion](https://github.com/borgesmj/Javascript-Exercises/blob/main/Encontrar-Numeros-Primos/script.js) |
+
