@@ -1,3 +1,6 @@
+Ejercicio propuesto por [Mouredev](https://github.com/mouredev) en los [Retos de Programacion 2023](https://github.com/mouredev/retos-programacion-2023/)
+
+
 /*
  * Crea un programa que sea capaz de solicitarte un número y se
  * encargue de imprimir su tabla de multiplicar entre el 1 y el 10.
